@@ -37,7 +37,7 @@ languages:
 internships:
   - Conversational AI inside a production equestrian mobile app (Cavalons, Paris)
   - Full website for a BTP company, specs → deployment (Pro Alu et PVC, Algiers)
-
+    
 ---
 
 ### 🛠️ Tech Stack
