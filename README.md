@@ -31,13 +31,14 @@ location:    Toulouse, Occitanie, France
 school:      CESI École d'ingénieurs — AI & Data Science
 available:   Sept 2026 · 3–4 month internship · AI & Data Science
 
+languages:
+  code:   Python · SQL · JS · PHP · C++ · C# · HTML/CSS
+  human:  French · English · Spanish · Arabic · Kabyle
+
 internships:
   - Conversational AI inside a production equestrian mobile app (Cavalons, Paris)
   - Full website for a BTP company, specs → deployment (Pro Alu et PVC, Algiers)
 
-languages:
-  code:   Python · SQL · JS · PHP · C++ · C# · HTML/CSS
-  human:  French · English · Spanish · Arabic · Kabyle
 ```
 
 ---
