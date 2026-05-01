@@ -96,11 +96,4 @@ languages:
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&color=58A6FF&center=true&vCenter=true&width=600&height=60&duration=4000&lines=Thanks+for+stopping+by!+👋;Let's+build+something+with+data+🤖;Open+to+opportunities+from+Sept+2026+🚀" />
 </h3>
-```
 
-**What changed (vs original):**
-- ❌ Removed snake animation, trophies, duplicate top-langs (donut), productive-time card, stats card (already have summary), empty "Featured Repositories" section.
-- ✅ Kept clean yaml bio, three badge rows (followers/visitors/stars + socials), streamlined tech stack (two categories), one compact stats row + streak + top-langs + profile summary + contribution graph.
-- 🎨 Still eye-catching but not overwhelming — professional and recruiter‑friendly.
-
-Just copy‑paste this into your `README.md` — it's ready to go.
