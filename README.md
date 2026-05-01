@@ -200,20 +200,6 @@ Full build of a professional website for a construction company — specs to dep
 
 ---
 
-<!-- QUOTE -->
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="24"/>
-  Dev Quote
-</h2>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true"/>
-</p>
-
-<br/>
-
----
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/xdmanflow?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github"/>
