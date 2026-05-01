@@ -22,8 +22,9 @@ I'm an engineering student at CESI, specialised in AI & Data Science. I build th
 </p>
 
 ---
-```yaml
 ### 🧠 About Me
+
+```yaml
 
 name:        Manil Doudou
 location:    Toulouse, Occitanie, France
