@@ -22,7 +22,7 @@ I'm an engineering student at CESI, specialised in AI & Data Science. I build th
 </p>
 
 ---
-
+```yaml
 ### 🧠 About Me
 
 name:        Manil Doudou
@@ -37,7 +37,7 @@ languages:
 internships:
   - Conversational AI inside a production equestrian mobile app (Cavalons, Paris)
   - Full website for a BTP company, specs → deployment (Pro Alu et PVC, Algiers)
-    
+```
 ---
 
 ### 🛠️ Tech Stack
