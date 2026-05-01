@@ -39,10 +39,7 @@ internships:
   - Conversational AI inside a production equestrian mobile app (Cavalons, Paris)
   - Full website for a BTP company, specs → deployment (Pro Alu et PVC, Algiers)
 
-```
-
 ---
-
 
 ### 🛠️ Tech Stack
 
@@ -75,11 +72,7 @@ internships:
 
 ---
 
-📊 GitHub Stats
-
----
-
-### 📊 GitHub Stats (the ones that matter)
+### 📊 GitHub Stats 
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=xdmanflow&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=bc8cff&rank_icon=github"/>
@@ -95,3 +88,9 @@ internships:
   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=xdmanflow&bg_color=0d1117&color=58A6FF&line=bc8cff&point=f778ba&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph"/>
 </p>
 
+---
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&color=58A6FF&center=true&vCenter=true&width=600&height=60&duration=4000&lines=Thanks+for+stopping+by!+👋;Let's+build+something+with+data+🤖;Open+to+opportunities+from+Sept+2026+🚀" />
+</h3>
+```
