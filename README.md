@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/manil-doudou-4745923a0/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:manil.doudou.007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/📍_Toulouse,_France-grey?style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=xdmanflow&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS"/>
 </p>
 
 <br/>
@@ -150,16 +150,16 @@ Full build of a professional website for a construction company — specs to dep
 </h2>
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=bc8cff"/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=xdmanflow&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=bc8cff"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdmanflow&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=f778ba&currStreakLabel=58a6ff&sideLabels=bc8cff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"/>
+  <img src="https://streak-stats.demolab.com/?user=xdmanflow&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=f778ba&currStreakLabel=58a6ff&sideLabels=bc8cff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=58a6ff&line=bc8cff&point=f778ba&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xdmanflow&bg_color=0d1117&color=58a6ff&line=bc8cff&point=f778ba&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph"/>
 </p>
 
 <br/>
@@ -174,7 +174,7 @@ Full build of a professional website for a construction company — specs to dep
 </h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=xdmanflow&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7"/>
 </p>
 
 <br/>
@@ -190,9 +190,9 @@ Full build of a professional website for a construction company — specs to dep
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xdmanflow/xdmanflow/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xdmanflow/xdmanflow/output/github-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/xdmanflow/xdmanflow/output/github-snake-dark.svg"/>
   </picture>
 </p>
 
@@ -216,8 +216,8 @@ Full build of a professional website for a construction company — specs to dep
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github"/>
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=for-the-badge&color=f778ba&labelColor=0d1117&logo=github"/>
+  <img src="https://img.shields.io/github/followers/xdmanflow?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github"/>
+  <img src="https://img.shields.io/github/stars/xdmanflow?label=Stars&style=for-the-badge&color=f778ba&labelColor=0d1117&logo=github"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=120&section=footer&animation=twinkling" width="100%"/>
