@@ -37,15 +37,15 @@ available:   Sept 2026 · 3–4 month internship · AI / Data Science
 
 built:
   - Conversational AI inside a production equestrian mobile app (Cavalons, Paris)
-  - Full website for a BTP company, specs to deployment (Pro Alu et PVC, Algiers)
+  - Full website for a BTP company, specs to deployment (Algiers)
 
 what_drives_me:
   - Making ML pipelines that actually generalise
   - Clean data > clever model, every time
-  - Formula 1 · Aeronautics · Geopolitics 
+  - Formula 1 🏎️  ·  Aeronautics ✈️  ·  Geopolitics 🌍
 
 languages:
-  code:   Python · SQL · JavaScript · PHP · C++ · C# · HTML/CSS
+  code:   Python · SQL · JS · PHP · C++ · C# · HTML/CSS
   human:  French C2 · Arabic C2 · English C1 · Spanish B2 · Kabyle B1
 ```
 
@@ -84,18 +84,58 @@ languages:
 
 ---
 
+### 💻 Featured Repositories
+
+> 🚧 Pinning projects as I go — check back soon.
+
+<!-- Uncomment and fill in once you have repos to showcase:
+[![Repo](https://img.shields.io/badge/Repo-Project_Name-black?style=for-the-badge&logo=github)](https://github.com/xdmanflow/REPO_NAME)
+-->
+
+---
+
 ### 📊 Stats
 
-<p>
-  <a href="https://github.com/xdmanflow">
-    <img title="🔥 Streak" alt="xdmanflow's streak" src="https://streak-stats.demolab.com/?user=xdmanflow&theme=gruvbox&short_numbers=true"/>
-  </a>
+<!-- General stats + streak side by side -->
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=xdmanflow&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=bc8cff&rank_icon=github"/>
+  <img height="180" src="https://streak-stats.demolab.com/?user=xdmanflow&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=f778ba&currStreakLabel=58a6ff&sideLabels=bc8cff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"/>
 </p>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="xdmanflow's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=xdmanflow&bg_color=1F222E&color=58A6FF&line=bc8cff&point=f778ba&hide_border=true"/>
-</a>
+<!-- Languages — Jupyter Notebook hidden (it's notebooks, not a skill) -->
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdmanflow&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=Jupyter%20Notebook&langs_count=8"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdmanflow&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=Jupyter%20Notebook&langs_count=6"/>
+</p>
 
+<!-- Profile summary card -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xdmanflow&theme=tokyonight"/>
+</p>
+
+<!-- Repos by language + commit activity -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xdmanflow&theme=tokyonight&hide=Jupyter%20Notebook"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xdmanflow&theme=tokyonight&hide=Jupyter%20Notebook"/>
+</p>
+
+<!-- Productive time + stats card -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xdmanflow&theme=tokyonight&utcOffset=1"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xdmanflow&theme=tokyonight"/>
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xdmanflow&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+</p>
+
+<!-- Activity graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=xdmanflow&bg_color=0d1117&color=58A6FF&line=bc8cff&point=f778ba&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph"/>
+</p>
+
+<!-- Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xdmanflow/xdmanflow/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xdmanflow/xdmanflow/output/github-contribution-grid-snake.svg"/>
