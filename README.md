@@ -54,7 +54,6 @@ internships:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -86,10 +85,3 @@ internships:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=xdmanflow&bg_color=0d1117&color=58A6FF&line=bc8cff&point=f778ba&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph"/>
 </p>
-
----
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&color=58A6FF&center=true&vCenter=true&width=600&height=60&duration=4000&lines=Thanks+for+stopping+by!+👋;Let's+build+something+with+data+🤖;Open+to+opportunities+from+Sept+2026+🚀" />
-</h3>
-
