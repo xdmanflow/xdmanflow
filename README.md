@@ -91,7 +91,3 @@ languages:
   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=xdmanflow&bg_color=0d1117&color=58A6FF&line=bc8cff&point=f778ba&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph"/>
 </p>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&color=58A6FF&center=true&vCenter=true&width=600&height=60&duration=4000&lines=Thanks+for+stopping+by!+👋;Let's+build+something+with+data+🤖;Open+to+opportunities+from+Sept+2026+🚀" />
-</h3>
-
