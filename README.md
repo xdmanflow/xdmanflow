@@ -42,7 +42,7 @@ built:
 what_drives_me:
   - Making ML pipelines that actually generalise
   - Clean data > clever model, every time
-  - Formula 1  ·  Aeronautics ·  Geopolitics 
+  - Formula 1 · Aeronautics · Geopolitics 
 
 languages:
   code:   Python · SQL · JavaScript · PHP · C++ · C# · HTML/CSS
