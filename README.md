@@ -25,7 +25,6 @@ I'm an engineering student at CESI, specialised in AI & Data Science. I build th
 
 ### 🧠 About Me
 
-```yaml
 name:        Manil Doudou
 location:    Toulouse, Occitanie, France
 school:      CESI École d'ingénieurs — AI & Data Science
@@ -93,4 +92,4 @@ internships:
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&color=58A6FF&center=true&vCenter=true&width=600&height=60&duration=4000&lines=Thanks+for+stopping+by!+👋;Let's+build+something+with+data+🤖;Open+to+opportunities+from+Sept+2026+🚀" />
 </h3>
-```
+
