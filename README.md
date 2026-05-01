@@ -84,16 +84,6 @@ languages:
 
 ---
 
-### 💻 Featured Repositories
-
-> 🚧 Pinning projects as I go — check back soon.
-
-<!-- Uncomment and fill in once you have repos to showcase:
-[![Repo](https://img.shields.io/badge/Repo-Project_Name-black?style=for-the-badge&logo=github)](https://github.com/xdmanflow/REPO_NAME)
--->
-
----
-
 ### 📊 Stats
 
 <p>
