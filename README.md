@@ -37,15 +37,15 @@ available:   Sept 2026 · 3–4 month internship · AI / Data Science
 
 built:
   - Conversational AI inside a production equestrian mobile app (Cavalons, Paris)
-  - Full website for a BTP company, specs to deployment (Algiers)
+  - Full website for a BTP company, specs to deployment (Pro Alu et PVC, Algiers)
 
 what_drives_me:
   - Making ML pipelines that actually generalise
   - Clean data > clever model, every time
-  - Formula 1 🏎️  ·  Aeronautics ✈️  ·  Geopolitics 🌍
+  - Formula 1  ·  Aeronautics ·  Geopolitics 
 
 languages:
-  code:   Python · SQL · JS · PHP · C++ · C# · HTML/CSS
+  code:   Python · SQL · JavaScript · PHP · C++ · C# · HTML/CSS
   human:  French C2 · Arabic C2 · English C1 · Spanish B2 · Kabyle B1
 ```
 
