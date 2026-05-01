@@ -1,6 +1,3 @@
-Here's a **catchy + professional** version — cleaner than the original (no snake, no trophies, no duplicate charts), but still visually engaging.
-
-```markdown
 # 👨‍💻 Manil Doudou
 
 **`AI & Data Science Engineering Student | Builder · Analyst · Tinkerer`**
