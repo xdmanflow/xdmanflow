@@ -3,7 +3,7 @@
 **`AI & Data Science Engineering Student | Builder · Analyst · Tinkerer`**
 
 I'm an engineering student at CESI, specialised in AI & Data Science. I build things that actually work — from production conversational AI to clean, maintainable ML pipelines that tame messy data and solve real problems.  
-🎯 **Looking for a 4 month internship in AI / Data Science – starting September 2026**
+🎯 **Looking for a 3-4 month internship in AI / Data Science – starting September 2026**
 
 <p align="left">
   <a href="https://github.com/xdmanflow?tab=followers">
