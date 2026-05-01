@@ -1,80 +1,59 @@
+# 👋 Manil Doudou
 
+**AI & Data Science Engineering Student** @ CESI École d'ingénieurs  
+📍 Toulouse, France  
+📅 Available for a **3–4 month internship in AI / Data Science** – September 2026
 
-# 👨‍💻 Manil Doudou
-
-**AI & Data Science Engineering Student (Builder / Analyst)**
-
-Engineering student at CESI specializing in AI & Data Science. I enjoy building real, usable systems — from conversational AI to ML pipelines that turn messy data into insights.
-
-📍 Toulouse, France
-🎯 Looking for a **3–4 month AI / Data Science internship starting Sept 2026**
-
----
-
-## 🧠 About Me
-
-```yaml
-name: Manil Doudou
-school: CESI École d'ingénieurs
-focus: AI & Data Science
-available: Sept 2026 (internship)
-
-interests:
-  - Machine Learning & Data Pipelines
-  - Practical AI systems
-  - Clean data > complex models
-  - Formula 1 🏎️ · Aerospace ✈️ · Geopolitics 🌍
-
-projects:
-  - Conversational AI in a production mobile app (Cavalons)
-  - Full-stack website for a construction company (from specs to deployment)
-
-languages:
-  programming: Python · SQL · JS · PHP · C++ · C# · HTML/CSS
-  human: French (C2) · Arabic (C2) · English (C1) · Spanish (B2) · Kabyle (B1)
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manil-doudou-4745923a0/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manil.doudou.007@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/xdmanflow?label=Follow&style=social)](https://github.com/xdmanflow)
 
 ---
 
-## 🧰 Tech Stack
+## 🔧 About me
 
-**Data & ML**
+I build practical AI systems that work — from conversational AI in production to clean ML pipelines.  
+**Clean data > clever models.**
 
-* Python, Pandas, NumPy, SciPy
-* Scikit-learn, TensorFlow, PyTorch
-
-**Visualization**
-
-* Matplotlib, Seaborn, Plotly
-
-**Web & Tools**
-
-* SQL, JavaScript, PHP
-* HTML, CSS
-* Git, Jupyter
-* C++, C#, Arduino
+- 🧠 **Conversational AI** – deployed in a production equestrian mobile app (Cavalons, Paris)
+- 🌐 **Full‑stack website** – from specs to deployment for a construction company (Algiers)
+- 🏎️ **Interests**: Formula 1 · Aerospace · Geopolitics
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xdmanflow&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xdmanflow&theme=tokyonight" height="170"/>
-</p>
+**Data & ML**  
+`Python` · `Pandas` · `NumPy` · `scikit-learn` · `TensorFlow` · `PyTorch`
 
----
+**Visualisation**  
+`Matplotlib` · `Seaborn` · `Plotly`
 
-## 📬 Contact
-
-* 📧 Email: [manil.doudou.007@gmail.com](mailto:manil.doudou.007@gmail.com)
-* 💼 LinkedIn: [Manil Doudou](https://www.linkedin.com/in/manil-doudou-4745923a0/)
-* 🐙 GitHub: [xdmanflow](https://github.com/xdmanflow)
+**Other**  
+`SQL` · `JavaScript` · `PHP` · `C++` · `C#` · `HTML/CSS` · `Git`
 
 ---
 
-## 🚀 Goal
+## 📖 Languages
 
-Building useful AI systems that actually work in real environments — not just notebooks.
+| Human        | Level       | Code         |
+|--------------|-------------|--------------|
+| French       | C2          | Python, SQL  |
+| Arabic       | C2          | JS, PHP      |
+| English      | C1          | C++, C#      |
+| Spanish      | B2          | HTML/CSS     |
+| Kabyle       | B1          |              |
 
+---
 
+## 📌 Featured projects
+
+> Coming soon — repositories will be pinned here.
+
+---
+
+## 📫 Let's connect
+
+Feel free to reach out for collaborations or internship opportunities.  
+📧 manil.doudou.007@gmail.com  
+🔗 [linkedin.com/in/manil-doudou](https://www.linkedin.com/in/manil-doudou-4745923a0/)
