@@ -1,7 +1,5 @@
 # 👨‍💻 Manil Doudou
 
-**`AI & Data Science Engineering Student | Builder · Analyst · Tinkerer`**
-
 I'm an engineering student at CESI, specialised in AI & Data Science. I build things that actually work — from production conversational AI to clean, maintainable ML pipelines that tame messy data and solve real problems.  
 
 <p align="left">
