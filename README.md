@@ -31,9 +31,9 @@ location:    Toulouse, France 🇫🇷
 school:      CESI École d'ingénieurs — AI & Data Science
 available:   Sept 2026 · 3–4 month internship · AI / Data Science
 
-built:
+internships:
   - Conversational AI inside a production equestrian mobile app (Cavalons, Paris)
-  - Full website for a BTP company, specs → deployment (Algiers)
+  - Full website for a BTP company, specs → deployment (Pro Alu et PVC, Algiers)
 
 what_drives_me:
   - Making ML pipelines that actually generalise
@@ -42,7 +42,7 @@ what_drives_me:
 
 languages:
   code:   Python · SQL · JS · PHP · C++ · C# · HTML/CSS
-  human:  French C2 · Arabic C2 · English C1 · Spanish B2 · Kabyle B1
+  human:  French · English · Spanish · Arabic · Kabyle
 ```
 
 ---
