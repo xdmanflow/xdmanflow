@@ -2,7 +2,7 @@
 
 **`AI & Data Science Engineering Student | Builder · Analyst · Tinkerer`**
 
-Engineering student at CESI, specialised in AI & Data Science. I build things that actually work — from production conversational AI to ML pipelines that tame messy data.  
+I'm an engineering student at CESI, specialised in AI & Data Science. I build things that actually work — from production conversational AI to clean, maintainable ML pipelines that tame messy data and solve real problems.  
 🎯 **Looking for a 3–4 month internship in AI / Data Science – starting September 2026**
 
 <p align="left">
@@ -27,18 +27,13 @@ Engineering student at CESI, specialised in AI & Data Science. I build things th
 
 ```yaml
 name:        Manil Doudou
-location:    Toulouse, France 🇫🇷
+location:    Toulouse, Occitanie, France
 school:      CESI École d'ingénieurs — AI & Data Science
-available:   Sept 2026 · 3–4 month internship · AI / Data Science
+available:   Sept 2026 · 3–4 month internship · AI & Data Science
 
 internships:
   - Conversational AI inside a production equestrian mobile app (Cavalons, Paris)
   - Full website for a BTP company, specs → deployment (Pro Alu et PVC, Algiers)
-
-what_drives_me:
-  - Making ML pipelines that actually generalise
-  - Clean data > clever model, every time
-  - Formula 1 🏎️ · Aeronautics ✈️ · Geopolitics 🌍
 
 languages:
   code:   Python · SQL · JS · PHP · C++ · C# · HTML/CSS
