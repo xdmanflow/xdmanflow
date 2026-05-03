@@ -4,17 +4,17 @@ I'm an engineering student at CESI, specialised in AI & Data Science. I build th
 
 <p align="left">
   <a href="https://github.com/xdmanflow?tab=followers">
-    <img alt="followers" src="https://custom-icon-badges.demolab.com/github/followers/xdmanflow?color=%23E05D44&label=Followers&logo=person-add&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
+    <img alt="followers" src="https://custom-icon-badges.demolab.com/github/followers/xdmanflow?color=a855f7&label=Followers&logo=person-add&logoColor=white&style=for-the-badge&labelColor=7c3aed"/>
   </a>
-  <img alt="views" src="https://komarev.com/ghpvc/?username=xdmanflow&label=Visitors&color=2C9DF5&style=for-the-badge"/>
+  <img alt="views" src="https://komarev.com/ghpvc/?username=xdmanflow&label=Visitors&color=06b6d4&style=for-the-badge"/>
   <a href="https://drive.google.com/file/d/1D6UKE9EqEyD4FNc6O0xV6CoP0V-Wssg-/view?usp=sharing">
-    <img alt="resume" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
+    <img alt="resume" src="https://img.shields.io/badge/Resume-10b981?style=for-the-badge&logo=google-drive&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/manil-doudou-4745923a0/">
-    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:manil.doudou.007@gmail.com">
-    <img alt="email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img alt="email" src="https://img.shields.io/badge/Email-f43f5e?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
