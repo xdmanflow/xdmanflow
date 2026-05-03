@@ -39,7 +39,7 @@ internships:
 ---
 
 **Data & ML**  
-![Python](https://img.shields.io/badge/Python-a855f7?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/Pandas-7c3aed?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-6d28d9?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-f97316?style=for-the-badge&logo=scikit-learn&logoColor=white)
