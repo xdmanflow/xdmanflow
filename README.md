@@ -1,4 +1,4 @@
-# 👨‍💻 Manil Doudou
+# Manil Doudou
 
 I'm an engineering student at CESI, specialised in AI & Data Science. I build things that actually work — from production conversational AI to clean, maintainable ML pipelines that tame messy data and solve real problems.  
 
@@ -19,7 +19,7 @@ I'm an engineering student at CESI, specialised in AI & Data Science. I build th
 </p>
 
 ---
-### 🧠 About Me
+### About Me
 
 ```yaml
 
@@ -38,7 +38,7 @@ internships:
 ```
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Data & ML**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -48,7 +48,7 @@ internships:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-**📊 Visualization & Databases**  
+**Visualization & Databases**  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
@@ -68,7 +68,7 @@ internships:
 
 ---
 
-### 📊 GitHub Stats 
+### GitHub Stats 
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=xdmanflow&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=bc8cff&rank_icon=github"/>
