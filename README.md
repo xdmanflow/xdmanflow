@@ -7,7 +7,7 @@ I'm an engineering student at CESI, specialised in AI & Data Science. I build th
     <img alt="followers" src="https://custom-icon-badges.demolab.com/github/followers/xdmanflow?color=a855f7&label=Followers&logo=person-add&logoColor=white&style=for-the-badge&labelColor=7c3aed"/>
   </a>
   <img alt="views" src="https://komarev.com/ghpvc/?username=xdmanflow&label=Visitors&color=06b6d4&style=for-the-badge"/>
-  <a href="https://drive.google.com/file/d/1D6UKE9EqEyD4FNc6O0xV6CoP0V-Wssg-/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1XZ7nUFIWPmyOFmtia-Xmi700ygS1r-GJ/view?usp=sharing">
     <img alt="resume" src="https://img.shields.io/badge/Resume-10b981?style=for-the-badge&logo=google-drive&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/manil-doudou-4745923a0/">
