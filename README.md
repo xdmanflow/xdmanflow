@@ -1,4 +1,4 @@
-# Manil Doudou
+# Manil DOUDOU
 
 I'm an engineering student at CESI, specialised in AI & Data Science. I build things that actually work — from production conversational AI to clean, maintainable ML pipelines that tame messy data and solve real problems.  
 
