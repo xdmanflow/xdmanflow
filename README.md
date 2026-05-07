@@ -1,6 +1,6 @@
 # Manil DOUDOU
 
-I'm an engineering student at CESI, specialised in AI & Data Science. I build things that actually work — from production conversational AI to clean, maintainable ML pipelines that tame messy data and solve real problems.  
+I'm an engineering student at CESI, specialised in AI & Data Science. I build things that actually work — from production conversational AI to clean, maintainable ML pipelines that tame messy data and solve real life problems.  
 
 <p align="left">
   <a href="https://github.com/xdmanflow?tab=followers">
