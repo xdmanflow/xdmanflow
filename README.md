@@ -6,12 +6,12 @@ I'm an engineering student at CESI, specialised in AI & Data Science. I build th
 
 
 <p align="left">
-  <a href="https://github.com/xdmanflow?tab=repositories">
-    <img alt="projects" src="https://img.shields.io/badge/Projects-a855f7?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 <a href="https://github.com/xdmanflow">
   <img alt="AI & Data Science" src="https://img.shields.io/badge/AI%20%26%20Data%20Science-0891b2?style=for-the-badge"/>
 </a>
+  <a href="https://github.com/xdmanflow?tab=repositories">
+    <img alt="projects" src="https://img.shields.io/badge/Projects-a855f7?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
   <a href="https://drive.google.com/file/d/1XZ7nUFIWPmyOFmtia-Xmi700ygS1r-GJ/view?usp=sharing">
     <img alt="resume" src="https://img.shields.io/badge/Resume-10b981?style=for-the-badge&logo=google-drive&logoColor=white"/>
   </a>
