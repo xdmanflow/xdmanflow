@@ -10,18 +10,20 @@ I'm an engineering student at CESI, specialised in AI & Data Science. I build th
     <img alt="projects" src="https://img.shields.io/badge/Projects-a855f7?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://github.com/xdmanflow">
-    <img alt="open source" src="https://img.shields.io/badge/Open%20Source-06b6d4?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
+    <img alt="open source" src="https://img.shields.io/badge/Open%20Source-06b6d4?style=for-the-badge&logo=open-source-initiative&logoColor=white"/>
   </a>
   <a href="https://drive.google.com/file/d/1XZ7nUFIWPmyOFmtia-Xmi700ygS1r-GJ/view?usp=sharing">
     <img alt="resume" src="https://img.shields.io/badge/Resume-10b981?style=for-the-badge&logo=google-drive&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/manil-doudou-4745923a0/">
-    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:manil.doudou.007@gmail.com">
     <img alt="email" src="https://img.shields.io/badge/Email-f43f5e?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+
 
 
 
