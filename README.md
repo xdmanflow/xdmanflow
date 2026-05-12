@@ -15,11 +15,11 @@ I'm an engineering student at CESI, specialised in AI & Data Science. I build th
   <a href="https://drive.google.com/file/d/1XZ7nUFIWPmyOFmtia-Xmi700ygS1r-GJ/view?usp=sharing">
     <img alt="resume" src="https://img.shields.io/badge/Resume-10b981?style=for-the-badge&logo=google-drive&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/manil-doudou-4745923a0/">
-    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="mailto:manil.doudou.007@gmail.com">
     <img alt="email" src="https://img.shields.io/badge/Email-f43f5e?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/manil-doudou-4745923a0/">
+    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
