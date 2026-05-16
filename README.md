@@ -43,10 +43,6 @@ available:   From sept 2026 · 3–4 month internship · AI & Data Science
 
 languages:   Python · SQL · JS · PHP · C++ · C# · C Arduino · HTML/CSS
 
-internships:
-
-  - Conversational AI inside a production equestrian mobile app (Cavalons, Paris)
-  - Full website for a BTP company, specs → deployment (Pro Alu et PVC, Algiers)
 ```
 ---
 
