@@ -24,11 +24,3 @@ I'm an engineering student at CESI, specialised in AI & Data Science. I build th
   </a>
 </p>
 
-
-
----
-### GitHub Stats 
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=xdmanflow&bg_color=0d1117&color=58A6FF&line=bc8cff&point=f778ba&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph"/>
-</p>
